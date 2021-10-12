@@ -1,6 +1,6 @@
-# Machine Learning
+##### <a href='../note.html'>*Note*</a>
 
-## What is Machine Learning?
+## What is Machine Learning (ML)?
 
 "**Machine learning** (**ML**) is the study of computer algorithms that can improve automatically through experience and by the use of data" by [Wikipedia](https://en.wikipedia.org/wiki/Machine_learning).
 
@@ -19,14 +19,22 @@ $$
 
 ## Guideline for Machine Learning
 
-<img src="C:\Users\aeio6646\Desktop\ML_note\Figure\ML_guide.png" alt="ML_guide" style="zoom:60%;" />
+<img src="Figure\ML_guide.png" alt="ML_guide" style="zoom:60%;" />
 
-## Different types of Machine Learning Model (Neural Network)
+## Approaches
+
++ Supervised Learning 
+
++ Self-supervised Learning 
+
++ Unsupervised Learning
+
++ Reinforcement learning
+
+## Models 
 
 + <a href="RNN.html">Recurrent Neural Network (RNN)</a>
-
 + <a href="GAN.html">Generative Adversarial Network (GAN)</a>
-
 + <a href="Self_Attention.html">Self Attention (SA)</a>
 
 

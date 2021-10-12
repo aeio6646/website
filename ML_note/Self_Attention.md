@@ -1,3 +1,5 @@
+##### <a href='../note.html'>*Note*</a>
+
 ## Self-Attention
 
 Self-attention is a kind of layer / mechanism which is widely used in NLP. It contains three kinds of components:
@@ -19,7 +21,7 @@ V = W_{v}{\bf x} \\
 A = softmax\{\frac{K^TQ}{\sqrt{d_k}}\} \\
 {\bf o} = VA
 $$
-<img src="C:\Users\aeio6646\Desktop\ML_note\Figure\SA.png" alt="SA" style="zoom:60%;" />
+<img src="Figure\SA.png" alt="SA" style="zoom:60%;" />
 
 For the multi-head self-attention, it has multiple query ($Q_{\alpha}$) / key ($K_{\alpha}$) / value ($V_{\alpha}$) and thus it has multiple outputs $O_{\alpha}$. The final output is the linear combination of multiple outputs: 
 $$
