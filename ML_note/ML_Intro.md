@@ -19,7 +19,7 @@ $$
 
 ## Guideline for Machine Learning
 
-<img src="Figure\ML_guide.png" alt="ML_guide" style="zoom:60%;" />
+<img src="Figure\ML_guide.png" alt="ML_guide" style="zoom:40%;" />
 
 ## Approaches
 

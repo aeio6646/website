@@ -2,5 +2,17 @@
 
 ## Generative Adversarial Network (GAN)
 
-sdsa
+<img src="Figure\GAN.png" style="zoom: 40%;" />
+
+
+
+## CGan
+
+## Progressive Gan
+
+## WGan
+
+
+
+## Style Gan
 
